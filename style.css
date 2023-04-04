@@ -42,3 +42,23 @@ h1 {
     color: white;
 }
 
+@media screen and (min-width: 320px) {
+
+    .btn {
+       height: 50px; 
+    }
+
+    button {
+       width: 230px;
+       cursor: pointer;
+    }
+    
+    h1 {
+        color: white;
+        font-size: 22px;
+    }
+
+    img {
+        width: 250px;
+    }
+}
